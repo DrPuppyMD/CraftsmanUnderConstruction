@@ -1,14 +1,25 @@
 body {
+  font-size: 80%;
   font-family: Times, Serif;
   text-align: center;
+  letter-spacing: 0.15em;
   background-color: #efefef;
-  margin: 30px 30px 30px 30px;
-  border: 4px double #000;
 }
+
+#page {
+  max-width: 940px;
+  min-width: 720px;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  border: 4px double #000;
+  background-color: #ffffff;
+}
+
 h1 {
   font-size: 40px;
   padding: 30px;
 }
+
 h2 {
   font-size: 20px;
 }
