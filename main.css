@@ -1,4 +1,6 @@
 body {
+  background-color: rgb(0.0.0);
+  color: silver;
   font-size: 80%;
   font-family: Times, Serif;
   text-align: center;
@@ -16,12 +18,8 @@ body {
 h1 {
   font-size: 40px;
   padding: 30px;
-  color: silver;
-  background-color: black;
 }
 
 h2 {
   font-size: 30px;
-  color: silver;
-  background-color: black;
 }
