@@ -3,7 +3,7 @@ body {
   font-family: Times, Serif;
   text-align: center;
   letter-spacing: 0.15em;
-  background-color: #000;
+  background-color: black;
 }
 
 #page {
@@ -12,7 +12,7 @@ body {
   margin: 10px auto 10px auto;
   padding: 20px;
   border: 4px double silver;
-  background-color: #000;
+  background-color: black;
 }
 
 h1 {
