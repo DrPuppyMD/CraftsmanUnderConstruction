@@ -1,5 +1,9 @@
 body {
   font-family: Times, Serif;
+  text-align: center;
+  background-color: #efefef;
+  margin: 10px auto 10px auto;
+  border: 4px double #000;
 }
 h1 {
   font-size: 40px;
