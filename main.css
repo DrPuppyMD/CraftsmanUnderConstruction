@@ -2,7 +2,6 @@ body {
   font-size: 80%;
   font-family: Times, Serif;
   text-align: center;
-  
   letter-spacing: 0.15em;
   background-color: #000;
 }
@@ -12,8 +11,8 @@ body {
   min-width: 720px;
   margin: 10px auto 10px auto;
   padding: 20px;
-  border: 4px double #000;
-  background-color: #ffffff;
+  border: 4px double silver;
+  background-color: #000;
 }
 
 h1 {
